@@ -1,0 +1,24 @@
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
+table tr th {
+  background-color: #76a7a7;
+  color: white;
+}
+
+#background-1 {
+  background-image: url(/imagens/desenho-loucao.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
